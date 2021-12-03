@@ -1,11 +1,5 @@
 # Jakkapat Boonroj
 
-### Frontend Web Developer
-
-KMITL 55 | Information Engineering 19
-
-- 🔭 I’m currently working on Blockfint Company
-- 🌱 I’m currently learning Framer motion
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jakapatb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
